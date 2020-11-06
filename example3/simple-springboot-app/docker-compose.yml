@@ -1,0 +1,9 @@
+version: '3.5'
+
+services:
+  simple-app:
+    container_name: simple-app-dc-name
+    build:
+      context: .
+    ports:
+      - 8081:8080

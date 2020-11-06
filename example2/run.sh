@@ -1,0 +1,1 @@
+docker run -e POSTGRES_PASSWORD=masterkey --name my_postgres -d postgres
