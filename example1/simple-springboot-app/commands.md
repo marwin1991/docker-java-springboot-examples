@@ -6,7 +6,7 @@ docker build -t simple-app:1.0.0 .
 
 List docker image:
 ```
-docker images ls
+docker images
 ```
 
 Run docker container in background
